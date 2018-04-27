@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SquareGroup">
+        <attr name="mSideItems" format="integer"/>
+        <attr name="mColorInnerNoFinger" format="color"/>
+        <attr name="mColorOuterNoFinger" format="color"/>
+        <attr name="mColorFingerON" format="color"/>
+        <attr name="mColorFingerUP" format="color"/>
+    </declare-styleable>
+</resources>
